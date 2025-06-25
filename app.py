@@ -13,7 +13,7 @@ db = client["talk2data"]
 collection = db["employees"]
 
 # Gemini setup
-genai.configure(api_key="AIzaSyCaysB15oEdu9CV5y2v3szm9fF0uzTBgNw")  # 🔁 Replace with your actual key
+genai.configure(api_key="")  # 🔁 Replace with your actual key
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # 🔁 Prompt (only sent once per session)
