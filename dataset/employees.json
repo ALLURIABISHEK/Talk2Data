@@ -1,0 +1,1002 @@
+[
+  {
+    "employee_id": "E001",
+    "name": "Tiffany Castaneda",
+    "role": "HR Manager",
+    "department": "Design",
+    "status": "active",
+    "location": "Bangalore",
+    "joinedDate": "2024-10-24",
+    "salary": 94583
+  },
+  {
+    "employee_id": "E002",
+    "name": "Benjamin Sellers",
+    "role": "Project Manager",
+    "department": "Analytics",
+    "status": "active",
+    "location": "Kolkata",
+    "joinedDate": "2022-07-24",
+    "salary": 65463
+  },
+  {
+    "employee_id": "E003",
+    "name": "Julie Caldwell",
+    "role": "Data Analyst",
+    "department": "Support",
+    "status": "active",
+    "location": "Delhi",
+    "joinedDate": "2024-05-06",
+    "salary": 114815
+  },
+  {
+    "employee_id": "E004",
+    "name": "William Garcia",
+    "role": "HR Manager",
+    "department": "Development",
+    "status": "active",
+    "location": "Mumbai",
+    "joinedDate": "2021-11-22",
+    "salary": 89442
+  },
+  {
+    "employee_id": "E005",
+    "name": "Dawn Salas",
+    "role": "QA Tester",
+    "department": "Development",
+    "status": "inactive",
+    "location": "Pune",
+    "joinedDate": "2022-10-14",
+    "salary": 102282
+  },
+  {
+    "employee_id": "E006",
+    "name": "Hannah Phelps",
+    "role": "Product Owner",
+    "department": "Testing",
+    "status": "active",
+    "location": "Kolkata",
+    "joinedDate": "2024-08-23",
+    "salary": 95100
+  },
+  {
+    "employee_id": "E007",
+    "name": "Catherine Jenkins",
+    "role": "QA Tester",
+    "department": "HR",
+    "status": "active",
+    "location": "Mumbai",
+    "joinedDate": "2023-04-20",
+    "salary": 73590
+  },
+  {
+    "employee_id": "E008",
+    "name": "Mary Freeman",
+    "role": "Tech Lead",
+    "department": "Development",
+    "status": "active",
+    "location": "Pune",
+    "joinedDate": "2022-09-27",
+    "salary": 122005
+  },
+  {
+    "employee_id": "E009",
+    "name": "Sheena Wade",
+    "role": "Tech Lead",
+    "department": "Analytics",
+    "status": "inactive",
+    "location": "Mumbai",
+    "joinedDate": "2024-04-28",
+    "salary": 52755
+  },
+  {
+    "employee_id": "E010",
+    "name": "Johnny Blake",
+    "role": "UI/UX Designer",
+    "department": "Support",
+    "status": "active",
+    "location": "Delhi",
+    "joinedDate": "2025-05-29",
+    "salary": 53703
+  },
+  {
+    "employee_id": "E011",
+    "name": "Brooke Page",
+    "role": "UI/UX Designer",
+    "department": "Development",
+    "status": "inactive",
+    "location": "Mumbai",
+    "joinedDate": "2021-02-26",
+    "salary": 58445
+  },
+  {
+    "employee_id": "E012",
+    "name": "Patrick Zimmerman",
+    "role": "HR Manager",
+    "department": "Design",
+    "status": "inactive",
+    "location": "Delhi",
+    "joinedDate": "2024-02-17",
+    "salary": 124325
+  },
+  {
+    "employee_id": "E013",
+    "name": "Felicia Yates",
+    "role": "Project Manager",
+    "department": "Analytics",
+    "status": "inactive",
+    "location": "Pune",
+    "joinedDate": "2024-10-05",
+    "salary": 63888
+  },
+  {
+    "employee_id": "E014",
+    "name": "Lauren Underwood",
+    "role": "Data Analyst",
+    "department": "Design",
+    "status": "inactive",
+    "location": "Delhi",
+    "joinedDate": "2022-01-13",
+    "salary": 101886
+  },
+  {
+    "employee_id": "E015",
+    "name": "Judy Lee",
+    "role": "Product Owner",
+    "department": "Support",
+    "status": "active",
+    "location": "Pune",
+    "joinedDate": "2025-04-07",
+    "salary": 58678
+  },
+  {
+    "employee_id": "E016",
+    "name": "James Bautista",
+    "role": "DevOps Engineer",
+    "department": "Design",
+    "status": "inactive",
+    "location": "Kolkata",
+    "joinedDate": "2022-08-19",
+    "salary": 60580
+  },
+  {
+    "employee_id": "E017",
+    "name": "Victoria Thompson",
+    "role": "Software Engineer",
+    "department": "Testing",
+    "status": "inactive",
+    "location": "Pune",
+    "joinedDate": "2023-09-15",
+    "salary": 101831
+  },
+  {
+    "employee_id": "E018",
+    "name": "Veronica Byrd",
+    "role": "UI/UX Designer",
+    "department": "Design",
+    "status": "active",
+    "location": "Pune",
+    "joinedDate": "2023-03-17",
+    "salary": 62827
+  },
+  {
+    "employee_id": "E019",
+    "name": "Brenda Dean",
+    "role": "UI/UX Designer",
+    "department": "Operations",
+    "status": "inactive",
+    "location": "Delhi",
+    "joinedDate": "2021-10-02",
+    "salary": 66031
+  },
+  {
+    "employee_id": "E020",
+    "name": "Ralph Smith",
+    "role": "DevOps Engineer",
+    "department": "Operations",
+    "status": "inactive",
+    "location": "Chennai",
+    "joinedDate": "2021-08-31",
+    "salary": 75827
+  },
+  {
+    "employee_id": "E021",
+    "name": "George Smith",
+    "role": "DevOps Engineer",
+    "department": "HR",
+    "status": "inactive",
+    "location": "Hyderabad",
+    "joinedDate": "2022-03-13",
+    "salary": 57934
+  },
+  {
+    "employee_id": "E022",
+    "name": "Anthony Mclean",
+    "role": "Tech Lead",
+    "department": "Development",
+    "status": "inactive",
+    "location": "Delhi",
+    "joinedDate": "2023-10-23",
+    "salary": 121582
+  },
+  {
+    "employee_id": "E023",
+    "name": "Whitney Sheppard",
+    "role": "Product Owner",
+    "department": "HR",
+    "status": "inactive",
+    "location": "Bangalore",
+    "joinedDate": "2025-03-17",
+    "salary": 95191
+  },
+  {
+    "employee_id": "E024",
+    "name": "Stephanie Watson",
+    "role": "Support Engineer",
+    "department": "HR",
+    "status": "active",
+    "location": "Mumbai",
+    "joinedDate": "2022-07-12",
+    "salary": 123911
+  },
+  {
+    "employee_id": "E025",
+    "name": "Alexandra Roberts",
+    "role": "Software Engineer",
+    "department": "HR",
+    "status": "active",
+    "location": "Hyderabad",
+    "joinedDate": "2024-08-25",
+    "salary": 96382
+  },
+  {
+    "employee_id": "E026",
+    "name": "Adam Williamson",
+    "role": "UI/UX Designer",
+    "department": "Testing",
+    "status": "active",
+    "location": "Kolkata",
+    "joinedDate": "2024-12-16",
+    "salary": 76652
+  },
+  {
+    "employee_id": "E027",
+    "name": "Kevin Hamilton",
+    "role": "Project Manager",
+    "department": "Design",
+    "status": "inactive",
+    "location": "Kolkata",
+    "joinedDate": "2024-02-16",
+    "salary": 93628
+  },
+  {
+    "employee_id": "E028",
+    "name": "Alejandro Waters",
+    "role": "Data Analyst",
+    "department": "Operations",
+    "status": "active",
+    "location": "Bangalore",
+    "joinedDate": "2023-12-27",
+    "salary": 96732
+  },
+  {
+    "employee_id": "E029",
+    "name": "Michael Perry",
+    "role": "Product Owner",
+    "department": "Development",
+    "status": "active",
+    "location": "Delhi",
+    "joinedDate": "2021-06-14",
+    "salary": 103855
+  },
+  {
+    "employee_id": "E030",
+    "name": "Christine Evans",
+    "role": "Data Analyst",
+    "department": "Support",
+    "status": "inactive",
+    "location": "Delhi",
+    "joinedDate": "2021-05-30",
+    "salary": 95142
+  },
+  {
+    "employee_id": "E031",
+    "name": "Heather Lopez",
+    "role": "Support Engineer",
+    "department": "Design",
+    "status": "inactive",
+    "location": "Pune",
+    "joinedDate": "2025-02-25",
+    "salary": 76354
+  },
+  {
+    "employee_id": "E032",
+    "name": "Shelby Martin",
+    "role": "QA Tester",
+    "department": "Development",
+    "status": "inactive",
+    "location": "Hyderabad",
+    "joinedDate": "2024-08-22",
+    "salary": 116502
+  },
+  {
+    "employee_id": "E033",
+    "name": "Erin Romero",
+    "role": "UI/UX Designer",
+    "department": "Testing",
+    "status": "inactive",
+    "location": "Kolkata",
+    "joinedDate": "2023-10-26",
+    "salary": 79284
+  },
+  {
+    "employee_id": "E034",
+    "name": "Joseph Greer",
+    "role": "Project Manager",
+    "department": "Support",
+    "status": "inactive",
+    "location": "Mumbai",
+    "joinedDate": "2021-04-06",
+    "salary": 72368
+  },
+  {
+    "employee_id": "E035",
+    "name": "Jamie Jackson",
+    "role": "UI/UX Designer",
+    "department": "Design",
+    "status": "inactive",
+    "location": "Delhi",
+    "joinedDate": "2021-05-22",
+    "salary": 92170
+  },
+  {
+    "employee_id": "E036",
+    "name": "Joshua Gordon",
+    "role": "Data Analyst",
+    "department": "Development",
+    "status": "inactive",
+    "location": "Hyderabad",
+    "joinedDate": "2025-04-17",
+    "salary": 55133
+  },
+  {
+    "employee_id": "E037",
+    "name": "John Torres",
+    "role": "UI/UX Designer",
+    "department": "Support",
+    "status": "active",
+    "location": "Kolkata",
+    "joinedDate": "2023-12-23",
+    "salary": 111540
+  },
+  {
+    "employee_id": "E038",
+    "name": "Audrey Chandler",
+    "role": "UI/UX Designer",
+    "department": "Testing",
+    "status": "active",
+    "location": "Kolkata",
+    "joinedDate": "2020-09-24",
+    "salary": 106071
+  },
+  {
+    "employee_id": "E039",
+    "name": "Brett Lewis",
+    "role": "QA Tester",
+    "department": "Design",
+    "status": "inactive",
+    "location": "Hyderabad",
+    "joinedDate": "2023-03-08",
+    "salary": 57040
+  },
+  {
+    "employee_id": "E040",
+    "name": "Charles Rodriguez",
+    "role": "Support Engineer",
+    "department": "Support",
+    "status": "active",
+    "location": "Mumbai",
+    "joinedDate": "2023-06-06",
+    "salary": 70745
+  },
+  {
+    "employee_id": "E041",
+    "name": "Adam Flynn",
+    "role": "Software Engineer",
+    "department": "Design",
+    "status": "inactive",
+    "location": "Delhi",
+    "joinedDate": "2020-09-19",
+    "salary": 80182
+  },
+  {
+    "employee_id": "E042",
+    "name": "Jeffrey Russell DVM",
+    "role": "Project Manager",
+    "department": "Analytics",
+    "status": "inactive",
+    "location": "Mumbai",
+    "joinedDate": "2024-10-30",
+    "salary": 109622
+  },
+  {
+    "employee_id": "E043",
+    "name": "Jose Rogers",
+    "role": "Data Analyst",
+    "department": "Design",
+    "status": "inactive",
+    "location": "Chennai",
+    "joinedDate": "2021-02-03",
+    "salary": 51399
+  },
+  {
+    "employee_id": "E044",
+    "name": "Kelly Cox",
+    "role": "UI/UX Designer",
+    "department": "Operations",
+    "status": "inactive",
+    "location": "Delhi",
+    "joinedDate": "2024-10-25",
+    "salary": 108860
+  },
+  {
+    "employee_id": "E045",
+    "name": "James Grimes",
+    "role": "DevOps Engineer",
+    "department": "Operations",
+    "status": "active",
+    "location": "Bangalore",
+    "joinedDate": "2024-06-22",
+    "salary": 57472
+  },
+  {
+    "employee_id": "E046",
+    "name": "Michael Santos",
+    "role": "Project Manager",
+    "department": "Testing",
+    "status": "inactive",
+    "location": "Delhi",
+    "joinedDate": "2024-12-31",
+    "salary": 109642
+  },
+  {
+    "employee_id": "E047",
+    "name": "Jose Contreras",
+    "role": "Support Engineer",
+    "department": "HR",
+    "status": "inactive",
+    "location": "Mumbai",
+    "joinedDate": "2025-05-20",
+    "salary": 75724
+  },
+  {
+    "employee_id": "E048",
+    "name": "David Wheeler",
+    "role": "Product Owner",
+    "department": "Testing",
+    "status": "active",
+    "location": "Chennai",
+    "joinedDate": "2025-06-23",
+    "salary": 95269
+  },
+  {
+    "employee_id": "E049",
+    "name": "Elizabeth Floyd",
+    "role": "Software Engineer",
+    "department": "HR",
+    "status": "active",
+    "location": "Hyderabad",
+    "joinedDate": "2022-08-29",
+    "salary": 88441
+  },
+  {
+    "employee_id": "E050",
+    "name": "John Ross",
+    "role": "HR Manager",
+    "department": "Support",
+    "status": "active",
+    "location": "Kolkata",
+    "joinedDate": "2023-12-09",
+    "salary": 72492
+  },
+  {
+    "employee_id": "E051",
+    "name": "James Doyle",
+    "role": "Data Analyst",
+    "department": "HR",
+    "status": "inactive",
+    "location": "Mumbai",
+    "joinedDate": "2022-10-21",
+    "salary": 105804
+  },
+  {
+    "employee_id": "E052",
+    "name": "Nicole Brown",
+    "role": "Project Manager",
+    "department": "HR",
+    "status": "inactive",
+    "location": "Bangalore",
+    "joinedDate": "2023-01-13",
+    "salary": 119418
+  },
+  {
+    "employee_id": "E053",
+    "name": "Angela Bonilla",
+    "role": "QA Tester",
+    "department": "Design",
+    "status": "inactive",
+    "location": "Mumbai",
+    "joinedDate": "2020-11-01",
+    "salary": 116209
+  },
+  {
+    "employee_id": "E054",
+    "name": "Sandra Murray",
+    "role": "Support Engineer",
+    "department": "Development",
+    "status": "inactive",
+    "location": "Delhi",
+    "joinedDate": "2021-09-22",
+    "salary": 115189
+  },
+  {
+    "employee_id": "E055",
+    "name": "Brian Gross",
+    "role": "Product Owner",
+    "department": "Operations",
+    "status": "inactive",
+    "location": "Chennai",
+    "joinedDate": "2023-06-10",
+    "salary": 47094
+  },
+  {
+    "employee_id": "E056",
+    "name": "Ashlee Petersen PhD",
+    "role": "Project Manager",
+    "department": "Testing",
+    "status": "active",
+    "location": "Mumbai",
+    "joinedDate": "2023-07-17",
+    "salary": 50473
+  },
+  {
+    "employee_id": "E057",
+    "name": "Kristen Garcia",
+    "role": "Data Analyst",
+    "department": "Operations",
+    "status": "active",
+    "location": "Bangalore",
+    "joinedDate": "2024-04-04",
+    "salary": 114190
+  },
+  {
+    "employee_id": "E058",
+    "name": "Melinda Sanders",
+    "role": "QA Tester",
+    "department": "Support",
+    "status": "inactive",
+    "location": "Pune",
+    "joinedDate": "2024-01-17",
+    "salary": 124172
+  },
+  {
+    "employee_id": "E059",
+    "name": "Emily Ruiz",
+    "role": "UI/UX Designer",
+    "department": "Analytics",
+    "status": "inactive",
+    "location": "Chennai",
+    "joinedDate": "2022-09-29",
+    "salary": 101750
+  },
+  {
+    "employee_id": "E060",
+    "name": "Jacob Wagner",
+    "role": "Product Owner",
+    "department": "Operations",
+    "status": "active",
+    "location": "Chennai",
+    "joinedDate": "2024-09-23",
+    "salary": 109991
+  },
+  {
+    "employee_id": "E061",
+    "name": "Derek Smith",
+    "role": "Support Engineer",
+    "department": "Support",
+    "status": "inactive",
+    "location": "Mumbai",
+    "joinedDate": "2020-10-29",
+    "salary": 60252
+  },
+  {
+    "employee_id": "E062",
+    "name": "Kristin Bell",
+    "role": "Tech Lead",
+    "department": "Design",
+    "status": "inactive",
+    "location": "Bangalore",
+    "joinedDate": "2020-08-07",
+    "salary": 109788
+  },
+  {
+    "employee_id": "E063",
+    "name": "Tyler Stevenson",
+    "role": "HR Manager",
+    "department": "HR",
+    "status": "active",
+    "location": "Delhi",
+    "joinedDate": "2025-06-10",
+    "salary": 92357
+  },
+  {
+    "employee_id": "E064",
+    "name": "Edward Stephens",
+    "role": "HR Manager",
+    "department": "Development",
+    "status": "active",
+    "location": "Mumbai",
+    "joinedDate": "2022-01-31",
+    "salary": 90512
+  },
+  {
+    "employee_id": "E065",
+    "name": "Shawn Zamora Jr.",
+    "role": "Product Owner",
+    "department": "Operations",
+    "status": "active",
+    "location": "Bangalore",
+    "joinedDate": "2022-03-04",
+    "salary": 121947
+  },
+  {
+    "employee_id": "E066",
+    "name": "Nicole Collins",
+    "role": "Support Engineer",
+    "department": "Analytics",
+    "status": "active",
+    "location": "Bangalore",
+    "joinedDate": "2025-03-30",
+    "salary": 94896
+  },
+  {
+    "employee_id": "E067",
+    "name": "Annette Martin",
+    "role": "HR Manager",
+    "department": "Development",
+    "status": "active",
+    "location": "Hyderabad",
+    "joinedDate": "2021-10-29",
+    "salary": 64136
+  },
+  {
+    "employee_id": "E068",
+    "name": "Andrew Osborn",
+    "role": "HR Manager",
+    "department": "Development",
+    "status": "inactive",
+    "location": "Kolkata",
+    "joinedDate": "2021-03-26",
+    "salary": 107640
+  },
+  {
+    "employee_id": "E069",
+    "name": "Jodi Williams",
+    "role": "Support Engineer",
+    "department": "Support",
+    "status": "active",
+    "location": "Hyderabad",
+    "joinedDate": "2020-12-02",
+    "salary": 73950
+  },
+  {
+    "employee_id": "E070",
+    "name": "Linda Ferguson",
+    "role": "Support Engineer",
+    "department": "Support",
+    "status": "inactive",
+    "location": "Chennai",
+    "joinedDate": "2021-10-09",
+    "salary": 83598
+  },
+  {
+    "employee_id": "E071",
+    "name": "Gary Dodson",
+    "role": "UI/UX Designer",
+    "department": "Development",
+    "status": "inactive",
+    "location": "Chennai",
+    "joinedDate": "2025-03-23",
+    "salary": 64291
+  },
+  {
+    "employee_id": "E072",
+    "name": "Vanessa Blackburn",
+    "role": "Project Manager",
+    "department": "Support",
+    "status": "inactive",
+    "location": "Mumbai",
+    "joinedDate": "2022-08-28",
+    "salary": 79037
+  },
+  {
+    "employee_id": "E073",
+    "name": "Regina Ross",
+    "role": "HR Manager",
+    "department": "Design",
+    "status": "inactive",
+    "location": "Kolkata",
+    "joinedDate": "2024-11-30",
+    "salary": 50523
+  },
+  {
+    "employee_id": "E074",
+    "name": "Allison Watson",
+    "role": "QA Tester",
+    "department": "Support",
+    "status": "inactive",
+    "location": "Delhi",
+    "joinedDate": "2023-11-11",
+    "salary": 110257
+  },
+  {
+    "employee_id": "E075",
+    "name": "Allen Le",
+    "role": "Project Manager",
+    "department": "Analytics",
+    "status": "inactive",
+    "location": "Mumbai",
+    "joinedDate": "2021-12-08",
+    "salary": 82193
+  },
+  {
+    "employee_id": "E076",
+    "name": "Patrick Aguirre",
+    "role": "Tech Lead",
+    "department": "HR",
+    "status": "active",
+    "location": "Chennai",
+    "joinedDate": "2023-07-15",
+    "salary": 52613
+  },
+  {
+    "employee_id": "E077",
+    "name": "William Hayes",
+    "role": "Software Engineer",
+    "department": "Testing",
+    "status": "inactive",
+    "location": "Bangalore",
+    "joinedDate": "2024-08-19",
+    "salary": 79991
+  },
+  {
+    "employee_id": "E078",
+    "name": "Timothy Becker",
+    "role": "Product Owner",
+    "department": "Analytics",
+    "status": "inactive",
+    "location": "Chennai",
+    "joinedDate": "2022-05-10",
+    "salary": 54825
+  },
+  {
+    "employee_id": "E079",
+    "name": "Brian Allen",
+    "role": "Tech Lead",
+    "department": "HR",
+    "status": "active",
+    "location": "Delhi",
+    "joinedDate": "2023-12-23",
+    "salary": 79156
+  },
+  {
+    "employee_id": "E080",
+    "name": "Anna Rowe",
+    "role": "Software Engineer",
+    "department": "Design",
+    "status": "active",
+    "location": "Pune",
+    "joinedDate": "2022-09-20",
+    "salary": 112062
+  },
+  {
+    "employee_id": "E081",
+    "name": "Kathy Johnson",
+    "role": "Project Manager",
+    "department": "Testing",
+    "status": "inactive",
+    "location": "Kolkata",
+    "joinedDate": "2023-08-06",
+    "salary": 85012
+  },
+  {
+    "employee_id": "E082",
+    "name": "David Marsh",
+    "role": "Support Engineer",
+    "department": "Development",
+    "status": "inactive",
+    "location": "Hyderabad",
+    "joinedDate": "2024-08-20",
+    "salary": 106122
+  },
+  {
+    "employee_id": "E083",
+    "name": "Nicole Baker",
+    "role": "DevOps Engineer",
+    "department": "Analytics",
+    "status": "inactive",
+    "location": "Chennai",
+    "joinedDate": "2022-04-03",
+    "salary": 55493
+  },
+  {
+    "employee_id": "E084",
+    "name": "Brent Brown",
+    "role": "Project Manager",
+    "department": "Operations",
+    "status": "active",
+    "location": "Pune",
+    "joinedDate": "2021-11-24",
+    "salary": 110163
+  },
+  {
+    "employee_id": "E085",
+    "name": "Ryan Mckinney",
+    "role": "QA Tester",
+    "department": "Support",
+    "status": "inactive",
+    "location": "Mumbai",
+    "joinedDate": "2020-11-03",
+    "salary": 112199
+  },
+  {
+    "employee_id": "E086",
+    "name": "Andrea Ruiz",
+    "role": "QA Tester",
+    "department": "Support",
+    "status": "active",
+    "location": "Chennai",
+    "joinedDate": "2021-07-07",
+    "salary": 80785
+  },
+  {
+    "employee_id": "E087",
+    "name": "Joan Bridges",
+    "role": "Software Engineer",
+    "department": "Testing",
+    "status": "active",
+    "location": "Chennai",
+    "joinedDate": "2023-05-22",
+    "salary": 47549
+  },
+  {
+    "employee_id": "E088",
+    "name": "Daniel Hernandez",
+    "role": "Tech Lead",
+    "department": "Design",
+    "status": "inactive",
+    "location": "Bangalore",
+    "joinedDate": "2024-09-26",
+    "salary": 75345
+  },
+  {
+    "employee_id": "E089",
+    "name": "Melissa Dixon",
+    "role": "Software Engineer",
+    "department": "Development",
+    "status": "active",
+    "location": "Bangalore",
+    "joinedDate": "2022-04-17",
+    "salary": 106854
+  },
+  {
+    "employee_id": "E090",
+    "name": "Mario Owens",
+    "role": "UI/UX Designer",
+    "department": "Development",
+    "status": "inactive",
+    "location": "Mumbai",
+    "joinedDate": "2023-09-01",
+    "salary": 74386
+  },
+  {
+    "employee_id": "E091",
+    "name": "Jacob Ramirez",
+    "role": "Data Analyst",
+    "department": "Development",
+    "status": "active",
+    "location": "Chennai",
+    "joinedDate": "2024-06-27",
+    "salary": 121386
+  },
+  {
+    "employee_id": "E092",
+    "name": "Danielle Romero",
+    "role": "DevOps Engineer",
+    "department": "Development",
+    "status": "inactive",
+    "location": "Chennai",
+    "joinedDate": "2021-12-07",
+    "salary": 74167
+  },
+  {
+    "employee_id": "E093",
+    "name": "Kristen Duncan",
+    "role": "HR Manager",
+    "department": "Analytics",
+    "status": "inactive",
+    "location": "Pune",
+    "joinedDate": "2023-10-10",
+    "salary": 106919
+  },
+  {
+    "employee_id": "E094",
+    "name": "Tracy Johnson",
+    "role": "Project Manager",
+    "department": "Development",
+    "status": "inactive",
+    "location": "Chennai",
+    "joinedDate": "2024-08-06",
+    "salary": 92626
+  },
+  {
+    "employee_id": "E095",
+    "name": "Mary Le",
+    "role": "Tech Lead",
+    "department": "Analytics",
+    "status": "active",
+    "location": "Pune",
+    "joinedDate": "2022-04-12",
+    "salary": 81280
+  },
+  {
+    "employee_id": "E096",
+    "name": "Ashley Hall",
+    "role": "Tech Lead",
+    "department": "HR",
+    "status": "inactive",
+    "location": "Bangalore",
+    "joinedDate": "2025-03-26",
+    "salary": 117044
+  },
+  {
+    "employee_id": "E097",
+    "name": "Kathryn Moore",
+    "role": "DevOps Engineer",
+    "department": "Design",
+    "status": "active",
+    "location": "Pune",
+    "joinedDate": "2024-05-01",
+    "salary": 121009
+  },
+  {
+    "employee_id": "E098",
+    "name": "Brandon Mckinney",
+    "role": "Product Owner",
+    "department": "Design",
+    "status": "active",
+    "location": "Bangalore",
+    "joinedDate": "2024-12-25",
+    "salary": 85290
+  },
+  {
+    "employee_id": "E099",
+    "name": "Mark Ramirez",
+    "role": "DevOps Engineer",
+    "department": "Analytics",
+    "status": "active",
+    "location": "Kolkata",
+    "joinedDate": "2021-05-20",
+    "salary": 99755
+  },
+  {
+    "employee_id": "E100",
+    "name": "Stephen Moreno",
+    "role": "Software Engineer",
+    "department": "Operations",
+    "status": "inactive",
+    "location": "Mumbai",
+    "joinedDate": "2020-11-29",
+    "salary": 122680
+  }
+]
